@@ -8,4 +8,5 @@ class student {
 	void displaydetails()
 
 }
+#this is a java object code
 
